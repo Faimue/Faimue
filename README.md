@@ -10,4 +10,18 @@ Additionally, a follow to my organisation will also be appreciated
 ### Links :
 
 
-Github : 
+Github : https://github.com/Faimue
+
+# More information 👇
+
+I am currently working on Aquadroid, my biggest project so far... 
+
+The tools I use are android studio and visual studio, mostly 
+
+Thanks for the support and 
+
+# Help 
+
+Donate so that I can improve my workspace and buy stuff
+
+
