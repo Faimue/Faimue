@@ -1,4 +1,4 @@
-# Hello, I'm Faimue
+# Hello, I'm Faimue 👋
 
 
 
