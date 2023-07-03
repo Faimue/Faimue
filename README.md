@@ -2,8 +2,7 @@
 
 ## About Me 
 
-I'm Faimue 
-
+I'm Faimue, a teenage developer, trying to make the best apps possible. I'm always eager to learn more, and already know a handful of languages, such as python, C#, rust and java script. 
 
 
  <a href="https://github.com/Faimue"> 
