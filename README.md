@@ -1,5 +1,8 @@
 # Hello, I'm Faimue 👋
 
+## About Me 
+
+I'm Faimue 
 
 
 
