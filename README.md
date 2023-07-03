@@ -14,7 +14,7 @@ I am looking for people who are willing to work with me, and help me in the proc
 
 I currently have my own online server up and running, so all my apps will be on there. Anyone interested in helping to maintaining these servers, let me know 
 
-# Stats For Nerds 🤓
+## Stats For Nerds 🤓
 
 
  <a href="https://github.com/Faimue"> 
@@ -23,6 +23,6 @@ I currently have my own online server up and running, so all my apps will be on 
  </a> 
 
 
-# Enjoy 😄
+## Enjoy 😄
 
 Thanks for checking out my Github and make sure to follow for support and check out all of my works, they could use with your help
